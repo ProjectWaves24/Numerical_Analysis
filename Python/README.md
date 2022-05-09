@@ -1,7 +1,8 @@
 # Numerical_Analysis / Python
 
-Python modules for numerical analysis
+Python modules for solution of different problems of numerical analysis  such that
 
+* solution of linear equations and system of linear equations
 * interpolation,
 * integration,
 * solution of nonlinear equations and systems of nonlinear equations;
